@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POST on Alessandro Barone</title>
+    <link>https://ale-barone.github.io/post/</link>
+    <description>Recent content in POST on Alessandro Barone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>© Alessandro Barone</copyright>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ale-barone.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSPS Short-Term Fellowship</title>
+      <link>https://ale-barone.github.io/post/jsps-fellowship/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ale-barone.github.io/post/jsps-fellowship/</guid>
+      <description>&lt;p&gt;I have been awarded a JSPS Short-Term Fellowship to spend 4 months at KEK
+(Tsukuba, Japan) to work on my research project
+&amp;lsquo;&#39;$B_{(s)}$ and $D_{(s)}$ mesons inclusive semi-leptonic decays from Lattice QCD&amp;rsquo;&#39;
+together with Prof. Shoji Hashimoto and Prof. Takashi Kaneko.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Student-led Conference</title>
+      <link>https://ale-barone.github.io/post/student-led-conference/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ale-barone.github.io/post/student-led-conference/</guid>
+      <description>I have succesfully organised my first conference &amp;ldquo;From Particle Physics to Gravitation: the Crossover with Data Science&amp;rdquo;, check the website!
+The conference addressed the necessity of Data Science and High Performance Computers in Theoretical Physics, and covered topics from particle physics - such as phenomenology and lattice QCD - to gravitation and cosmology, with a particular focus on the application of techniques from fields like artificial intelligence, machine learning and data generation.</description>
+    </item>
+    
+    <item>
+      <title>Three Minute Thesis Competition</title>
+      <link>https://ale-barone.github.io/post/3mt/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ale-barone.github.io/post/3mt/</guid>
+      <description>The Three Minute Thesis (3MT®) is a research communication competition for PhD researchers. \
+I was awarded the runner-up position at the Faculty Heat (Faculty of Engeneering and Physical Sciences) of the 3MT at the University of Southampton. Check my video!   </description>
+    </item>
+    
+  </channel>
+</rss>

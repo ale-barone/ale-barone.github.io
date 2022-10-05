@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial on Alessandro Barone</title>
+    <link>https://ale-barone.github.io/unofficial/</link>
+    <description>Recent content in Unofficial on Alessandro Barone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>© Alessandro Barone</copyright><atom:link href="https://ale-barone.github.io/unofficial/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
