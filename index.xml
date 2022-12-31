@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>© Alessandro Barone</copyright>
-    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ale-barone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ale-barone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Doctoral Research Poster Showcase</title>
       <link>https://ale-barone.github.io/post/poster/</link>
@@ -26,7 +30,7 @@ Introduction Particle physics is the study of the tiniest elements in the whole 
       <guid>https://ale-barone.github.io/post/jsps-fellowship/</guid>
       <description>&lt;p&gt;I have been awarded a JSPS Short-Term Fellowship to spend 4 months at KEK
 (Tsukuba, Japan) to work on my research project
-&amp;lsquo;&amp;rsquo;$B_{(s)}$ and $D_{(s)}$ mesons inclusive semi-leptonic decays from Lattice QCD&amp;rsquo;&amp;rsquo;
+&amp;lsquo;&amp;lsquo;$B_{(s)}$ and $D_{(s)}$ mesons inclusive semi-leptonic decays from Lattice QCD&amp;rsquo;&amp;rsquo;
 together with Prof. Shoji Hashimoto and Prof. Takashi Kaneko.&lt;/p&gt;</description>
     </item>
     
@@ -47,7 +51,7 @@ The conference addressed the necessity of Data Science and High Performance Comp
       
       <guid>https://ale-barone.github.io/post/3mt/</guid>
       <description>The Three Minute Thesis (3MT®) is a research communication competition for PhD researchers.
-I was awarded the runner-up position at the Faculty Heat (Faculty of Engeneering and Physical Sciences) of the 3MT at the University of Southampton. Check my video! </description>
+I was awarded the runner-up position at the Faculty Heat (Faculty of Engeneering and Physical Sciences) of the 3MT at the University of Southampton. Check my video!   </description>
     </item>
     
   </channel>

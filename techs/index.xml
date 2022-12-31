@@ -6,6 +6,10 @@
     <description>Recent content in Techs on Alessandro Barone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>© Alessandro Barone</copyright><atom:link href="https://ale-barone.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Alessandro Barone</copyright>
+    
+	<atom:link href="https://ale-barone.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
